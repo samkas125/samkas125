@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## I'm a highschool student from India, and a programming enthusiast. 
+### Some of my projects include...
+  - Physics simulations in Python using the pygame module
+  - An IBDP predicted grade calculator using the Flask web framework in python
+  - A simple AI regressor model trained to detect forest fires using weather data
 
 <!--
 **samkas125/samkas125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
