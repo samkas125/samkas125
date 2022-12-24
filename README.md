@@ -3,7 +3,7 @@
 ### Some of my projects include...
   - Physics simulations in Python using the pygame module
   - An IBDP predicted grade calculator using the Flask web framework in python
-  - A simple AI regressor model trained to detect forest fires using weather data
+  - A Minecraft plugin that allows users to save, and later access locations in their worlds.
 
 <!--
 **samkas125/samkas125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
