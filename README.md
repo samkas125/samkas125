@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm a highschool student from India, and a programming enthusiast. 
+## I'm a high school student from India, and a programming enthusiast. 
 ### Some of my projects include...
   - Physics simulations in Python using the pygame module
   - An IBDP predicted grade calculator using the Flask web framework in python
