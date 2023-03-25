@@ -2,7 +2,14 @@
 ## I'm a high school student from India, and a programming enthusiast. 
 ### Some of my projects include...
   - Physics simulations in Python using the pygame module
-  - An IBDP predicted grade calculator using the Flask web framework in python [here](https://predictedgrade.pythonanywhere.com)
+  - An IBDP predicted grade calculator using the Flask web framework in python (repository: [PredictedGradeFlask](https://github.com/samkas125/PredictedGradeFlask)). Can be accessed [here](https://predictedgradetest.pythonanywhere.com).
+    - Limited student data is available on this site, as it is simply a sample. 
+    - Sample login for Admin:
+      - UID = Admin
+      - password = AdminTest
+    - Sample login for Student:
+      - UID = Student1
+      - password = StudentTest
   - A Minecraft plugin that allows users to save, and later access locations in their worlds.
 
 <!--
