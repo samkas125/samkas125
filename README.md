@@ -2,7 +2,7 @@
 ## I'm a high school student from India, and a programming enthusiast. 
 ### Some of my projects include...
   - Physics simulations in Python using the pygame module
-  - An IBDP predicted grade calculator using the Flask web framework in python [here](predictedgrade.pythonanywhere.com)
+  - An IBDP predicted grade calculator using the Flask web framework in python [here](https://predictedgrade.pythonanywhere.com)
   - A Minecraft plugin that allows users to save, and later access locations in their worlds.
 
 <!--
