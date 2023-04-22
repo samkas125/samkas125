@@ -1,6 +1,7 @@
 # Hi there 👋
 ## I'm a high school student from India, and a programming enthusiast. 
 ### Some of my projects include...
+  - Past Pilot - An Ed-tech platform for managing academic resources like past papers, with private key-based storage and NLP integration for easy search for similar or specific questions.
   - Physics simulations in Python using the pygame module
   - An IBDP predicted grade calculator using the Flask web framework in python (repository: [PredictedGradeFlask](https://github.com/samkas125/PredictedGradeFlask)). Can be accessed [here](https://predictedgradetest.pythonanywhere.com).
     - Limited student data is available on this site, as it is simply a sample. 
