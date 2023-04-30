@@ -11,6 +11,7 @@
     - Sample login for Student:
       - UID = Student1
       - password = StudentTest
+  - **Ultimate tic-tac-toe** game made in Python using PyGame.
   - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
 
 ### I'm currently learning...
