@@ -1,28 +1,23 @@
-# Hi there 👋
-## I'm a high school student from India, and a programming enthusiast. 
-### Some of my projects include...
+## About me 
+
+I'm a high school student from India, and a programming enthusiast. 
+
+### My projects:
+
   - **Past Pilot** - An Ed-tech platform for managing academic resources like past papers, with private key-based storage and NLP integration for easy search for similar or specific questions.
+  
   - **Physics simulations** in Python using the pygame module
-  - **IBDP predicted grade calculator** using the Flask web framework in python (repository: [PredictedGradeFlask](https://github.com/samkas125/PredictedGradeFlask)). Can be accessed [here](https://predictedgradetest.pythonanywhere.com).
+  
+  - **IBDP [predicted grade calculator](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in python.
+  
+  - **Lexicon Legend** - A word based 2 player PvP game using NLP.
    
   - **Ultimate tic-tac-toe** game made in Python using PyGame.
+  
   - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
 
-### I'm currently learning...
+### I'm currently learning:
   - NLP using HuggingFace transformers
   - Reinforcement learning design and environments
   - Convolutional Neural Networks
-<!--
-**samkas125/samkas125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
