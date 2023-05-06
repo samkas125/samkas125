@@ -1,6 +1,6 @@
 ## About me 
 
-I'm a high school student from India, and a programming enthusiast. 
+I'm a high school student from India, and a programming enthusiast. I am intrigued by the field of AI and ML, with some of my key interests being NLP and Reinforcement Learning.
 
 ### My projects:
 
@@ -8,11 +8,11 @@ I'm a high school student from India, and a programming enthusiast.
   
   - **Physics simulations** in Python using the pygame module
   
-  - **IBDP [predicted grade calculator](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in python.
+  - **Ultimate tic-tac-toe** game made in Python. Allows users to play against RL agent, or another user through PyGame.
   
   - **Lexicon Legend** - A word based 2 player PvP game using NLP.
    
-  - **Ultimate tic-tac-toe** game made in Python using PyGame.
+  - **IBDP [predicted grade management](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in python.
   
   - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
 
