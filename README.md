@@ -8,7 +8,7 @@ I'm a high school student from India, and a programming enthusiast. I am intrigu
   
   - **Physics simulations** in Python using the pygame module
   
-  - **Ultimate tic-tac-toe** game made in Python. Allows users to play against RL agent, or another user through PyGame.
+  - **Ultimate tic-tac-toe** game made in Python. Allows users to play against RL agent, or another user through PyGame. (Private repo, will open soon)
   
   - **Lexicon Legend** - A word based 2 player PvP game using NLP.
    
