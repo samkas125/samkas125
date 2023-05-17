@@ -15,6 +15,8 @@ I'm a high school student from India, and a programming enthusiast. I am intrigu
   - **IBDP [predicted grade management](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in python.
   
   - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
+  
+  - **Maze Game** that algorithmically generates solvable mazes of different difficulties and allows user to solve them. 
 
 ### I'm currently learning:
   - NLP using HuggingFace transformers
