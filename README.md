@@ -16,7 +16,7 @@ I'm a high school student from India, and a programming enthusiast. I am intrigu
   
   - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
   
-  - **Maze Game** that algorithmically generates solvable mazes of different difficulties and allows user to solve them. 
+  - **Mini Games** - algorithmically generated maze, tetris, pong and snake 
 
 ### I'm currently learning:
   - NLP using HuggingFace transformers
