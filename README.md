@@ -22,4 +22,5 @@ I'm a high school student from India, and a programming enthusiast. I am intrigu
   - NLP using HuggingFace transformers
   - Reinforcement learning design and environments
   - Convolutional Neural Networks
+  - AlphaZero implementation
 
