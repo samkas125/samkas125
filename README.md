@@ -4,19 +4,19 @@ I'm a high school student from India, and a programming enthusiast. I am intrigu
 
 ### My projects:
 
-  - **Past Pilot** - An Ed-tech platform for managing academic resources like past papers, with private key-based storage and NLP integration for easy search for similar or specific questions.
+  - **Past Pilot** - An Ed-tech platform for managing academic resources like past papers, with private key-based storage and NLP integration for easy search for similar or specific questions using cosine similarity.
   
   - **Physics simulations** in Python using the pygame module
   
   - **Ultimate tic-tac-toe** game made in Python. Includes an implementation of AlphaZero for Ultimate tic tac toe along with trained model that can be played against. 
   
-  - **Lexicon Legend** - A word based 2 player PvP game using NLP.
+  - **Lexicon Legend** - A real-time, word-based, 2 player PvP game made using NLP sentence-transformers.
    
-  - **IBDP [predicted grade management](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in python.
+  - **IBDP [predicted grade management system](https://predictedgradetest.pythonanywhere.com)** using the Flask web framework in Python.
   
-  - **Minecraft plugin** that allows users to save, and later access locations in their worlds.
+  - **Minecraft plugin** in Java that allows users to save, and later access locations in their worlds.
   
-  - **Mini Games** - algorithmically generated maze, tetris, pong and snake 
+  - **Mini Games** - Algorithmically generated maze, tetris, pong and snake 
 
 ### I'm currently learning:
   - NLP using HuggingFace transformers
