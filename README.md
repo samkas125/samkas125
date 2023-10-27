@@ -1,4 +1,3 @@
-# 8=====D thats how long my cock is
 ## About me 
 
 I'm a high school student from India and a programming enthusiast. I am intrigued by the field of AI and ML, with some of my key interests being NLP transformer models and Reinforcement Learning.
