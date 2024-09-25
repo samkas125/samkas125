@@ -1,6 +1,6 @@
 ## About me 
 
-I'm a high school student from India and a programming enthusiast. I am interested in the field of AI and ML, with some of my key interests being NLP transformer models and Reinforcement Learning.
+I'm a computer science freshman at Carnegie Mellon University. I am interested in the field of AI and ML, with some of my key interests being NLP transformer models and Reinforcement Learning.
 
 ### My projects:
 
