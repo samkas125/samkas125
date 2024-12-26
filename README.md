@@ -6,12 +6,12 @@ I'm a computer science freshman at Carnegie Mellon University. I am interested i
 
   - **Past Pilot**: An Ed-tech platform for managing academic resources like past papers, with private key-based storage and NLP integration for easy search for similar or specific questions using cosine similarity.
   
-  - **Ultimate tic-tac-toe:** AlphaZero implementation for Ultimate-tic-tac-toe along with a trained model that can be played against.
+  - **Ultimate tic-tac-toe:** Minimax, AlphaZero implementation for Ultimate-tic-tac-toe along with a trained model that can be played against.
 
   - **legal-sentence-classification**: Fine-tuned `bert-large-cased` model (334M params) for classifying legal sentences into rhetorical roles.
   
-  - **Physics Simulations:** simulation of physical processes using the pygame module.
-  
   - **Lexicon Legends:** A real-time, word-based, 2 player PvP game made using NLP sentence-transformers.
+  
+  - **Physics Simulations:** simulation of physical processes using the pygame module.
   
   - **Minecraft Plugin:** Java plugin that allows users to save, and later access locations in their Minecraft worlds.
