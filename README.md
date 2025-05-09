@@ -9,6 +9,8 @@ I'm a computer science freshman at Carnegie Mellon University. I am interested i
   - **Ultimate tic-tac-toe:** Minimax, AlphaZero implementation for Ultimate-tic-tac-toe along with a trained model that can be played against.
 
   - **legal-sentence-classification**: Fine-tuned `bert-large-cased` model (334M params) for classifying legal sentences into rhetorical roles.
+
+  - **Flowify**: A platform for video summarization and visualization. Converts an uploaded video to an expandable and editable flowchart of different themes/topics discussed in the video.
   
   - **Lexicon Legends:** A real-time, word-based, 2 player PvP game made using NLP sentence-transformers.
   
