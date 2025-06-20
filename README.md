@@ -14,6 +14,6 @@ I'm a computer science freshman at Carnegie Mellon University. I am interested i
   
   - **Lexicon Legends:** A real-time, word-based, 2 player PvP game made using NLP sentence-transformers.
   
-  - **Physics Simulations:** simulation of physical processes using the pygame module.
+  - **Single solution constraint solver:** Linear algebra based solver in C++ for single solution settings using matrix construction and row reduction. Step-by-step visualization included for minesweeper example.
   
-  - **Minecraft Plugin:** Java plugin that allows users to save, and later access locations in their Minecraft worlds.
+  - **Autoencoder Visualizer:** A visualization of visual autoencoders. Shows input image, reconstructed image, as well as relative position and distance between images in the latent space.
